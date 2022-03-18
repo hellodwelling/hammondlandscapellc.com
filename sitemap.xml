@@ -2,3 +2,131 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+    <url>
+        <loc>https://hammondlandscapellc.com/index</loc>
+        <lastmod>2022-03-18</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://hammondlandscapellc.com/store</loc>
+        <lastmod>2022-03-18</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://hammondlandscapellc.com/reviews</loc>
+        <lastmod>2022-03-18</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://hammondlandscapellc.com/gallery-All</loc>
+        <lastmod>2022-03-18</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://hammondlandscapellc.com/gallery-Landscaping</loc>
+        <lastmod>2022-03-18</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://hammondlandscapellc.com/gallery-Mowing</loc>
+        <lastmod>2022-03-18</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://hammondlandscapellc.com/gallery-Our-Team-and-Equipment</loc>
+        <lastmod>2022-03-18</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://hammondlandscapellc.com/gallery-Fall-and-Spring-Cleanups</loc>
+        <lastmod>2022-03-18</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://hammondlandscapellc.com/service-Fall-Clean-Up</loc>
+        <lastmod>2022-03-18</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://hammondlandscapellc.com/service-Flower-Bed-Installation</loc>
+        <lastmod>2022-03-18</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://hammondlandscapellc.com/service-Lawn-Aeration</loc>
+        <lastmod>2022-03-18</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://hammondlandscapellc.com/service-Shrub-Trimming</loc>
+        <lastmod>2022-03-18</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://hammondlandscapellc.com/service-Mowing</loc>
+        <lastmod>2022-03-18</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://hammondlandscapellc.com/service-Mulch-Installation</loc>
+        <lastmod>2022-03-18</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://hammondlandscapellc.com/service-Hardscaping</loc>
+        <lastmod>2022-03-18</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://hammondlandscapellc.com/service-Weeding</loc>
+        <lastmod>2022-03-18</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://hammondlandscapellc.com/service-Snow-&-Ice-Management</loc>
+        <lastmod>2022-03-18</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://hammondlandscapellc.com/service-Tree-Trimming</loc>
+        <lastmod>2022-03-18</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+</urlset>
