@@ -60,6 +60,13 @@
     </url>
 
     <url>
+        <loc>https://hammondlandscapellc.com/service-Lawn-Aeration</loc>
+        <lastmod>2022-03-18</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
         <loc>https://hammondlandscapellc.com/service-Fall-Clean-Up</loc>
         <lastmod>2022-03-18</lastmod>
         <changefreq>weekly</changefreq>
@@ -68,13 +75,6 @@
 
     <url>
         <loc>https://hammondlandscapellc.com/service-Flower-Bed-Installation</loc>
-        <lastmod>2022-03-18</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-
-    <url>
-        <loc>https://hammondlandscapellc.com/service-Lawn-Aeration</loc>
         <lastmod>2022-03-18</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
